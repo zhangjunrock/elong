@@ -1,0 +1,25 @@
+<MKM version="2.0" imageFileUrl="file:///Users/iDrummer/eLong/github/elong_new_ui4dev/elong/%E6%95%88%E6%9E%9C%E5%9B%BE4dev/02%E9%85%92%E5%BA%97%E6%A8%A1%E5%9D%97/%E5%85%AC%E5%85%B1/%E6%90%9C%E7%B4%A2%E9%A1%B5.png">
+  <Marks>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="13780516" offsetX="25" offsetY="10" x="525" y="74"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="12829635" offsetX="25" offsetY="10" x="435" y="128"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16777215" offsetX="25" offsetY="10" x="497" y="184"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="3421236" offsetX="25" offsetY="10" x="452" y="215"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="3421236" offsetX="25" offsetY="10" x="372" y="71"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="13158600" offsetX="25" offsetY="10" x="454" y="286"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="13158600" offsetX="25" offsetY="10" x="427" y="429"/>
+    <LengthMark direction="3" color="16711680" length="25" x="357" y="262"/>
+    <LengthMark direction="3" color="16711680" length="144" x="333" y="286"/>
+    <LengthMark direction="3" color="16711680" length="144" x="359" y="429"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="3421236" offsetX="25" offsetY="10" x="490" y="498"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="10066329" offsetX="25" offsetY="10" x="460" y="453"/>
+    <LengthMark direction="3" color="16711680" length="22" x="409" y="429"/>
+    <LengthMark direction="3" color="16711680" length="22" x="230" y="429"/>
+    <LengthMark direction="3" color="16711680" length="22" x="272" y="551"/>
+    <LengthMark direction="3" color="16711680" length="56" x="204" y="572.75"/>
+    <LengthMark direction="3" color="16711680" length="56" x="239" y="663.5"/>
+    <LengthMark direction="3" color="16711680" length="22" x="151" y="719.75"/>
+    <LengthMark direction="12" color="16711680" length="47" x="0" y="632"/>
+    <LengthMark direction="12" color="16711680" length="47" x="0" y="494"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="10066329" offsetX="25" offsetY="10" x="274" y="635"/>
+  </Marks>
+</MKM>
